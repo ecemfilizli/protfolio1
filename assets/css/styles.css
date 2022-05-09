@@ -10,13 +10,14 @@
       Purple: hsl(250, 66%, 75%)
       Pink: hsl(356, 66%, 75%)
       Teal: hsl(174, 63%, 62%)
+      Honey Yellow: hsl(42, 100%, 50%)
   */
 
-  --hue: 207;
-  --sat: 90%;
-  --lig: 61%;
+  --hue: 245;
+  --sat: 72%;
+  --lig: 59%;
   --first-color: hsl(var(--hue), var(--sat), var(--lig));
-  --first-color-alt: hsl(var(--hue), var(--sat), 57%); /* -4% */
+  --first-color-alt: hsl(var(--hue), var(--sat), 55%); /* -4% */
   --title-color: hsl(var(--hue), 12%, 15%);
   --text-color: hsl(var(--hue), 12%, 45%);
   --text-color-light: hsl(var(--hue), 8%, 75%);
